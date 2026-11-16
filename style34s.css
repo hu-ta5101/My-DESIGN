@@ -1,6 +1,5 @@
 @charset "UTF-8";
-<style>
-      /*ページ全体 CSS*/
+/*ページ全体 CSS*/
       body{font-size:16px;
            background-color:ivory;
            background-image:url(images/gold_back.jpg);
@@ -56,4 +55,3 @@
              padding:20px;
              text-align:right;
              background-color:peru;}
-    </style>
