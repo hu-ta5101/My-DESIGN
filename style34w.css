@@ -10,7 +10,8 @@
       /*ヘッダー CSS*/
       header{width:640px;
              background-color:bisque;}
-      h1{font-size:32px;
+      h1{margin-left:20px;
+         font-size:32px;
          font-family: "Agrave Pro", cursive;
          color:crimson;}
       header p{margin-left:20px;}
