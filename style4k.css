@@ -12,8 +12,8 @@ nav li{width:188px;margin-right:10px;
 main{width:630px;padding-left:10px;
      clear:both;padding-top:10px;padding-bottom:10px;background-color:antiquewhite;overflow:hidden;}
 h2{font-size:24px;color:darkred;}
-.material{width:200px;
+.sweets{width:200px;
           margin-top:20px;margin-right:10px;float:left;background-color:burlywood;}
-.material img{display:block;}
+.sweets img{display:block;}
 h3{font-size:20px;color:brown;}
 footer{clear:both;width:600px;padding:20px;text-align:right;background-color:bisque;}
