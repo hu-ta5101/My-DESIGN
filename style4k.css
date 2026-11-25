@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body{font-size:16px;background-color:ivory;background-image:url(images/gold_back.jpg);background-repeat:repeat-y;}
+h1,h2,h3,ul,li,p{margin:0;padding:0;}
+header{width:640px;background-color:bisque;}
+h1{margin-left:20px;font-size:32px;color:crimson;}
+header p{margin-left:20px;}
+nav {padding-left:10px;
+     padding-top:5px;padding-bottom:5px;overflow:hidden;background-color:burlywood;}
+nav ul{list-style-type:none;}
+nav li{width:188px;margin-right:10px;
+       height:38px;padding:5px;line-height:38px;float:left;border:solid 1px brown;background-color:bisque;}
+main{width:630px;padding-left:10px;
+     clear:both;padding-top:10px;padding-bottom:10px;background-color:antiquewhite;overflow:hidden;}
+h2{font-size:24px;color:darkred;}
+.material{width:200px;
+          margin-top:20px;margin-right:10px;float:left;background-color:burlywood;}
+.material img{display:block;}
+h3{font-size:20px;color:brown;}
+footer{clear:both;width:600px;padding:20px;text-align:right;background-color:bisque;}
